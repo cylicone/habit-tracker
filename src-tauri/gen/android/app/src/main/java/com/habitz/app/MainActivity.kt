@@ -1,3 +1,3 @@
-package com.streak.app
+package com.habitz.app
 
 class MainActivity : TauriActivity()
